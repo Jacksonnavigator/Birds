@@ -1,0 +1,5 @@
+gradio
+torch  # if using PyTorch
+torchvision  # if using PyTorch
+tensorflow  # if using TensorFlow
+pillow  # for image processing
